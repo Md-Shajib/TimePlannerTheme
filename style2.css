@@ -1,0 +1,84 @@
+@media screen and (max-width: 760px){
+
+    .check {
+        display: inline-block;
+        text-align: right;
+        font-size: 30px;
+        color: #000000;
+        margin-top: 10px;
+        margin-right: 20px;
+        padding: 5px;
+        cursor: pointer;
+        visibility: visible;
+    }
+
+}
+@media screen and (max-width: 600px) {
+    .all-content{
+        display: flex;
+        flex-direction: column;
+    }
+    .video-content{
+        width: 100%;
+    }
+    .write-content{
+        align-self: center;
+    }
+    .mid-content{
+        display: flex;
+        flex-direction: column;
+    }
+    .service-box{
+        align-self: center;
+        width: 80% !important;
+    }
+    .all3gig {
+        align-self: center;
+        width: 80% !important;
+    }
+    .all-team-member{
+        display: flex;
+        flex-direction: column;
+    }
+    .all-team-member .card{
+        align-self: center;
+        width: 80% !important;
+        margin-top: 5px;
+    }
+    .blog-item{
+        display: flex;
+        flex-direction: column;
+    }
+    .blog-service-item{
+        align-self: center;
+        width: 80% !important;
+        margin-top: 5px;
+    }
+    .blog-title{
+        display: flex;
+        flex-direction: column;
+    }
+    .b-item{
+        align-self: center;
+        width: 80% !important;
+        margin-top: 5px;
+    }
+    .all-three-member{
+        display: flex;
+        flex-direction: column;
+    }
+    .profile{
+        align-self: center;
+        width: 80% !important;
+        margin-top: 10px;
+    }
+    .foter-contact{
+        display: flex;
+        flex-direction: column;
+    }
+    .footer_item{
+        align-self: center;
+        width: 80% !important;
+        margin-top: 10px;
+    }
+  }
